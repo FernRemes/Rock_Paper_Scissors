@@ -6,3 +6,4 @@ Play Rock Paper Scissors with a CPU
 
 ---
 
+![Screenshot 2024-07-22 163756](https://github.com/user-attachments/assets/1342afef-cd11-44f3-b9c1-f233fd489787)
